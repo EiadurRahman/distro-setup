@@ -4,6 +4,7 @@
 # Automates post-install setup for fresh Linux installs
 # Modular • Colorful • Safe • Professional
 # ==========================================
+# FOR DELL-LATITUDE-E7470
 
 set -euo pipefail  # Exit on error, undefined vars, pipe failures
 
